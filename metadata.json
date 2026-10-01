@@ -1,0 +1,6 @@
+{
+  "name": "Joseval Móveis | Móveis & Utilidades",
+  "description": "Site oficial da Joseval Móveis em Anápolis-GO e Arraias-TO. Entrega e montagem grátis, sofás, colchões Biflex, roupeiros e utilidades domésticas. Fazer amigos é mais importante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
